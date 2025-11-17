@@ -6,7 +6,7 @@ This project focuses on **Webpack**, **ES6 modules**, and **dynamic DOM manipula
 ---
 
 ## 🚀 Live Demo
-
+https://ebey04.github.io/helsrestaurant/
 
 ##  Features
 
