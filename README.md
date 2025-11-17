@@ -5,10 +5,10 @@ This project focuses on **Webpack**, **ES6 modules**, and **dynamic DOM manipula
 
 ---
 
-** 👟 Live Demo
+## 🚀 Live Demo
 
 
-## 🚀 Features
+##  Features
 
 ### 🔹 Single Page Application Structure
 - Only one HTML file (`template.html`)
